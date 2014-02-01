@@ -9,3 +9,4 @@ localchange
 >>>>>>> Stashed changes
 new change
 גûאפגא
+newchange
