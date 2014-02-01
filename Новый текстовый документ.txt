@@ -1,5 +1,9 @@
 עוסע
 גûאûגא
 new branch
+<<<<<<< Updated upstream
 default
 new change
+=======
+localchange
+>>>>>>> Stashed changes
